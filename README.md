@@ -32,7 +32,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+There were a few problems that I faced. Gradre does not accep 'compile' anymore. The plan button in Android Studio works. I entered the id to the wrong view item. The list view would not update immediately after adding item to list and some how removing an item from list was crashing the app. Other then that, the app worked great and it was pretty interesting and cool.
 
 ## License
 
